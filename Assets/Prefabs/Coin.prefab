@@ -147,7 +147,7 @@ MonoBehaviour:
   _animator: {fileID: 2919052627646475448}
   _appearAnimationName: CoinAppear
   _disappearAnimationName: CoinDisappear
-  _secondsToDisappear: 20
+  _secondsToDisappear: 2
 --- !u!95 &2919052627646475448
 Animator:
   serializedVersion: 7
